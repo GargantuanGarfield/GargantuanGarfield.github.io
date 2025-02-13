@@ -7,7 +7,7 @@
 
 
 <h2>This is my school account where I make braindead and brainrotted media for whomsoever dares to venture into my cursed domain</h2><br><br>
-<img src="study.webp" width=""300>
+<img src="study.webp" width="300">
 
 <h2>In this repo I wil do litterally nothing it is solely an identifier</h2><br><br><br>
 
